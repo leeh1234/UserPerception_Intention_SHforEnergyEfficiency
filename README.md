@@ -8,8 +8,7 @@
 #### Date: 15.01.2022
 
 #### Uploaded Files:
-###### - surveydata.xlsx contains the complete data from the survey
-###### - dfexl2.csv contains the indicator variables for the random forest model
+###### - surveydata.xlsx contains the complete data from the survey ##### - dfexl2.csv contains the indicator variables for the random forest model
 ###### - DataAnalysis_Cleaning_SEM.R contains the code for the data cleaning and processing part and the structural equation modeling analysis
 ###### - functions.R contains ancillary functions for DataAnalysis_Cleaning_SEM.R
 ###### - surveysyntax.R contains the syntax for the survey data for DataAnalysis_Cleaning_SEM.R
