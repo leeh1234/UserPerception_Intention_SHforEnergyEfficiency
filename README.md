@@ -15,3 +15,4 @@
 ###### - surveysyntax.R contains the syntax for the survey data for DataAnalysis_Cleaning_SEM.R
 ###### - RandomForest.R contains the code for the random forest model
 ###### - Please adjust the working directories and paths for DataAnalysis_Cleaning_SEM.R and RandomForest.R
+	
