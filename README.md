@@ -6,7 +6,7 @@
 #### 2nd Examiner: PD Dr. Benjamin Fabian 
 #### Supervisor: Dr. Alona Zharova
 #### Date: 15.01.2022
-<br>
+
 ###### Uploaded Files:
 ###### - surveydata.xlsx contains the complete data from the survey 
 ###### - dfexl2.csv contains the indicator variables for the random forest model
